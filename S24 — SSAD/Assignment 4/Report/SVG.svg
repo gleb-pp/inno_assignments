@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1122.5601 793.76001" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clipPath18" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path16" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath30" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path28" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath38" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path36" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath46" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path44" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath58" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path56" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath70" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path68" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath82" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path80" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath94" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path92" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath106" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path104" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath118" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path116" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath126" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path124" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath134" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path132" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath146" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path144" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath154" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path152" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath162" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path160" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath170" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path168" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath178" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path176" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath190" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path188" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath198" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path196" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath206" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path204" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath214" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path212" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+    <clipPath id="clipPath222" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" id="path220" d="M 1.2546e-5,0 H 841.92001 V 595.32 H 1.2546e-5 Z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.403200030326843, 0, 0, 1.590708017349243, -393.4946347697769, 0.6231380197873477)" style="">
+    <g id="elem_IBook" transform="matrix(0.560044, 0, 0, 0.520101, 54.148255, 170.877551)">
+      <rect codeline="26" fill="#F1F1F1" height="113.1875" id="IBook" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="189" x="1316" y="335"/>
+      <ellipse cx="1386.75" cy="351" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path d="M1389.7188,356.6406 Q1389.1406,356.9375 1388.5,357.0781 Q1387.8594,357.2344 1387.1563,357.2344 Q1384.6563,357.2344 1383.3281,355.5937 Q1382.0156,353.9375 1382.0156,350.8125 Q1382.0156,347.6875 1383.3281,346.0312 Q1384.6563,344.375 1387.1563,344.375 Q1387.8594,344.375 1388.5,344.5312 Q1389.1563,344.6875 1389.7188,344.9844 L1389.7188,347.7031 Q1389.0938,347.125 1388.5,346.8594 Q1387.9063,346.5781 1387.2813,346.5781 Q1385.9375,346.5781 1385.25,347.6562 Q1384.5625,348.7187 1384.5625,350.8125 Q1384.5625,352.9062 1385.25,353.9844 Q1385.9375,355.0469 1387.2813,355.0469 Q1387.9063,355.0469 1388.5,354.7812 Q1389.0938,354.5 1389.7188,353.9219 L1389.7188,356.6406 Z " fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="1407.25" y="355.8467" style="white-space: pre;">IBook</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="1317" x2="1504" y1="367" y2="367"/>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="1317" x2="1504" y1="375" y2="375"/>
+      <ellipse cx="1327" cy="388.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="1336" y="391.9951" style="white-space: pre;">getTitle(): std::string</text>
+      <ellipse cx="1327" cy="404.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159" x="1336" y="408.292" style="white-space: pre;">getAuthor(): std::string</text>
+      <ellipse cx="1327" cy="421.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1336" y="424.5889" style="white-space: pre;">read(user: User*): void</text>
+      <ellipse cx="1327" cy="437.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163" x="1336" y="440.8857" style="white-space: pre;">listen(user: User*): void</text>
+    </g>
+    <g id="elem_BookProxy" transform="matrix(0.560044, 0, 0, 0.520101, 54.148255, 170.877551)">
+      <rect codeline="33" fill="#F1F1F1" height="129.4844" id="BookProxy" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="238" x="1127.5" y="72.18"/>
+      <ellipse cx="1205.75" cy="88.18" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path d="M1208.7188,93.8206 Q1208.1406,94.1175 1207.5,94.2581 Q1206.8594,94.4144 1206.1563,94.4144 Q1203.6563,94.4144 1202.3281,92.7737 Q1201.0156,91.1175 1201.0156,87.9925 Q1201.0156,84.8675 1202.3281,83.2112 Q1203.6563,81.555 1206.1563,81.555 Q1206.8594,81.555 1207.5,81.7112 Q1208.1563,81.8675 1208.7188,82.1644 L1208.7188,84.8831 Q1208.0938,84.305 1207.5,84.0394 Q1206.9063,83.7581 1206.2813,83.7581 Q1204.9375,83.7581 1204.25,84.8362 Q1203.5625,85.8987 1203.5625,87.9925 Q1203.5625,90.0862 1204.25,91.1644 Q1204.9375,92.2269 1206.2813,92.2269 Q1206.9063,92.2269 1207.5,91.9612 Q1208.0938,91.68 1208.7188,91.1019 L1208.7188,93.8206 Z " fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="1226.25" y="93.0267" style="white-space: pre;">BookProxy</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="1128.5" x2="1364.5" y1="104.18" y2="104.18"/>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1135.5" y="114.8284"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="1147.5" y="121.1751" style="white-space: pre;">book: IBook*</text>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1135.5" y="131.1253"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="1147.5" y="137.472" style="white-space: pre;">user: User*</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="1128.5" x2="1364.5" y1="144.7737" y2="144.7737"/>
+      <ellipse cx="1138.5" cy="158.4222" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="1147.5" y="161.7689" style="white-space: pre;">BookProxy(b: IBook*, u: User*)</text>
+      <ellipse cx="1138.5" cy="174.7191" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="1147.5" y="178.0657" style="white-space: pre;">readBook(): void</text>
+      <ellipse cx="1138.5" cy="191.0159" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="1147.5" y="194.3626" style="white-space: pre;">listenBook(): void</text>
+    </g>
+    <g id="elem_Book" transform="matrix(0.560044, 0, 0, 0.520101, 54.148255, 170.877551)">
+      <rect codeline="41" fill="#F1F1F1" height="259.8594" id="Book" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="350" x="1400.5" y="7"/>
+      <ellipse cx="1553.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path d="M1556.2188,28.6406 Q1555.6406,28.9375 1555,29.0781 Q1554.3594,29.2344 1553.6563,29.2344 Q1551.1563,29.2344 1549.8281,27.5938 Q1548.5156,25.9375 1548.5156,22.8125 Q1548.5156,19.6875 1549.8281,18.0313 Q1551.1563,16.375 1553.6563,16.375 Q1554.3594,16.375 1555,16.5313 Q1555.6563,16.6875 1556.2188,16.9844 L1556.2188,19.7031 Q1555.5938,19.125 1555,18.8594 Q1554.4063,18.5781 1553.7813,18.5781 Q1552.4375,18.5781 1551.75,19.6563 Q1551.0625,20.7188 1551.0625,22.8125 Q1551.0625,24.9063 1551.75,25.9844 Q1552.4375,27.0469 1553.7813,27.0469 Q1554.4063,27.0469 1555,26.7813 Q1555.5938,26.5 1556.2188,25.9219 L1556.2188,28.6406 Z " fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="1573.75" y="27.8467" style="white-space: pre;">Book</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="1401.5" x2="1749.5" y1="39" y2="39"/>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1408.5" y="49.6484"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="1420.5" y="55.9951" style="white-space: pre;">title: std::string</text>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1408.5" y="65.9453"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="1420.5" y="72.292" style="white-space: pre;">author: std::string</text>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1408.5" y="82.2422"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="1420.5" y="88.5889" style="white-space: pre;">price: std::string</text>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1408.5" y="98.5391"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="1420.5" y="104.8857" style="white-space: pre;">static obs: UserObserver*</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="1401.5" x2="1749.5" y1="112.1875" y2="112.1875"/>
+      <ellipse cx="1411.5" cy="125.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="1420.5" y="129.1826" style="white-space: pre;">Book()</text>
+      <ellipse cx="1411.5" cy="142.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="324" x="1420.5" y="145.4795" style="white-space: pre;">Book(t: std::string, a: std::string, p: std::string)</text>
+      <ellipse cx="1411.5" cy="158.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="1420.5" y="161.7764" style="white-space: pre;">setPrice(p: std::string): void</text>
+      <ellipse cx="1411.5" cy="174.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159" x="1420.5" y="178.0732" style="white-space: pre;">getAuthor(): std::string</text>
+      <ellipse cx="1411.5" cy="191.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="1420.5" y="194.3701" style="white-space: pre;">getTitle(): std::string</text>
+      <ellipse cx="1411.5" cy="207.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="237" x="1420.5" y="210.667" style="white-space: pre;">subscribe(user: const User*): void</text>
+      <ellipse cx="1411.5" cy="223.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="255" x="1420.5" y="226.9639" style="white-space: pre;">unsubscribe(user: const User*): void</text>
+      <ellipse cx="1411.5" cy="239.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1420.5" y="243.2607" style="white-space: pre;">read(user: User*): void</text>
+      <ellipse cx="1411.5" cy="256.2109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163" x="1420.5" y="259.5576" style="white-space: pre;">listen(user: User*): void</text>
+    </g>
+    <g id="link_Book_IBook" transform="matrix(0.560044, 0, 0, 0.520101, 54.148255, 170.877551)">
+      <path codeline="59" d="M1481.2298,282.2922 C1465.7698,305.9722 1460.23,314.44 1447.13,334.51 " fill="none" id="Book-backto-IBook" style="stroke:#181818;stroke-width:1.0;"/>
+      <polygon fill="none" points="1491.07,267.22,1476.2057,279.0121,1486.2539,285.5722,1491.07,267.22" style="stroke:#181818;stroke-width:1.0;"/>
+    </g>
+    <g id="link_BookProxy_IBook" transform="matrix(0.560044, 0, 0, 0.520101, 54.148255, 170.877551)">
+      <path codeline="60" d="M1288.1,202.01 C1314.67,242.95 1345.5127,290.4776 1370.9827,329.7076 " fill="none" id="BookProxy-to-IBook" style="stroke:#181818;stroke-width:1.0;"/>
+      <polygon fill="#181818" points="1374.25,334.74,1372.704,325.0132,1371.5273,330.5463,1365.9942,329.3696,1374.25,334.74" style="stroke:#181818;stroke-width:1.0;"/>
+    </g>
+  </g>
+  <g transform="matrix(1.3333332538604736, 0, 0, -1.3333332538604736, -1.4210854715202004e-14, 793.7600215935707)" id="g10">
+    <title>Main</title>
+    <g id="g12">
+      <g clip-path="url(#clipPath18)" id="g14">
+        <text id="text22" style="font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,667.06,549.6)"><tspan id="tspan20" y="0" x="0 5.0342398 10.06848 16.284 23.0184 25.513439 31.762079 36.06768 40.37328 42.768959 47.94672 53.687519 62.420158 67.873917 73.614723 77.21376 79.708801 85.361282 87.856323 93.729599 99.183357 104.92416 110.676 114.50688">SSAD Assignment 4 Report</tspan></text>
+      </g>
+    </g>
+    <g id="g24">
+      <g clip-path="url(#clipPath30)" id="g26"/>
+    </g>
+    <g id="g32">
+      <g clip-path="url(#clipPath38)" id="g34"/>
+    </g>
+    <g id="g40">
+      <g clip-path="url(#clipPath46)" id="g42">
+        <text id="text50" style="font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,681.58,536.16)"><tspan id="tspan48" y="0" x="0 6.94416 9.3398399 14.7384 20.4792 23.00736 28.615681 34.290241 40.03104 45.782879 50.64048 53.34528">Gleb Popov, </tspan></text>
+      </g>
+    </g>
+    <g id="g52">
+      <g clip-path="url(#clipPath58)" id="g54">
+        <text id="text62" style="font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,737.52,536.16)"><tspan id="tspan60" y="0" x="0 5.7628798 11.39328">B23</tspan></text>
+      </g>
+    </g>
+    <g id="g64">
+      <g clip-path="url(#clipPath70)" id="g66">
+        <text id="text74" style="font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,754.56,536.16)"><tspan id="tspan72" y="0" x="0">-</tspan></text>
+      </g>
+    </g>
+    <g id="g76">
+      <g clip-path="url(#clipPath82)" id="g78">
+        <text id="text86" style="font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,757.92,536.16)"><tspan id="tspan84" y="0" x="0 2.6385601 7.5623999">ISE</tspan></text>
+      </g>
+    </g>
+    <g id="g88">
+      <g clip-path="url(#clipPath94)" id="g90">
+        <text id="text98" style="font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,770.88,536.16)"><tspan id="tspan96" y="0" x="0">-</tspan></text>
+      </g>
+    </g>
+    <g id="g100">
+      <g clip-path="url(#clipPath106)" id="g102">
+        <text id="text110" style="font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,774.24,536.16)"><tspan id="tspan108" y="0" x="0 5.51998">01</tspan></text>
+      </g>
+    </g>
+    <g id="g112">
+      <g clip-path="url(#clipPath118)" id="g114"/>
+    </g>
+    <g id="g120">
+      <g clip-path="url(#clipPath126)" id="g122"/>
+    </g>
+    <g id="g128">
+      <g clip-path="url(#clipPath134)" id="g130">
+        <text id="text138" style="font-style: italic; font-variant: normal; font-weight: 300; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,699.48,522.7)"><tspan id="tspan136" y="0" x="0 2.6385601 8.26896 13.89936 19.419359 25.049761 30.680161 33.07584 35.361118 39.666721 42.161758 49.150082 54.780479 57.176159 61.956478 67.145279 70.733276 75.038879 77.434563 81.066719">Innopolis University</tspan></text>
+      </g>
+    </g>
+    <g id="g140">
+      <g clip-path="url(#clipPath146)" id="g142"/>
+    </g>
+    <g id="g148">
+      <g clip-path="url(#clipPath154)" id="g150"/>
+    </g>
+    <g id="g156">
+      <g clip-path="url(#clipPath162)" id="g158"/>
+    </g>
+    <g id="g164">
+      <g clip-path="url(#clipPath170)" id="g166"/>
+    </g>
+    <g id="g172">
+      <g clip-path="url(#clipPath178)" id="g174">
+        <text id="text182" style="font-variant: normal; font-weight: normal; font-size: 11.04px; font-family: Calibri; writing-mode: lr-tb; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; white-space: pre;" transform="matrix(1,0,0,-1,418.15,51.864)"><tspan id="tspan180" y="0" x="0">4</tspan></text>
+      </g>
+    </g>
+    <g id="g184">
+      <g clip-path="url(#clipPath190)" id="g186"/>
+    </g>
+    <g id="g192">
+      <g clip-path="url(#clipPath198)" id="g194"/>
+    </g>
+    <g id="g200">
+      <g clip-path="url(#clipPath206)" id="g202"/>
+    </g>
+    <g id="g208">
+      <g clip-path="url(#clipPath214)" id="g210"/>
+    </g>
+    <g id="g216">
+      <g clip-path="url(#clipPath222)" id="g218"/>
+    </g>
+  </g>
+  <g transform="matrix(0.8496460318565369, 0, 0, 0.8891690373420714, 78.81929896502639, 93.84588762888144)" style="">
+    <g id="elem_User">
+      <rect codeline="1" fill="#F1F1F1" height="145.7813" id="User" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="213" x="7" y="64.04"/>
+      <ellipse cx="93.25" cy="80.04" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path d="M96.2188,85.6806 Q95.6406,85.9775 95,86.1181 Q94.3594,86.2744 93.6563,86.2744 Q91.1563,86.2744 89.8281,84.6337 Q88.5156,82.9775 88.5156,79.8525 Q88.5156,76.7275 89.8281,75.0712 Q91.1563,73.415 93.6563,73.415 Q94.3594,73.415 95,73.5712 Q95.6563,73.7275 96.2188,74.0244 L96.2188,76.7431 Q95.5938,76.165 95,75.8994 Q94.4063,75.6181 93.7813,75.6181 Q92.4375,75.6181 91.75,76.6962 Q91.0625,77.7587 91.0625,79.8525 Q91.0625,81.9462 91.75,83.0244 Q92.4375,84.0869 93.7813,84.0869 Q94.4063,84.0869 95,83.8212 Q95.5938,83.54 96.2188,82.9619 L96.2188,85.6806 Z " fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="113.75" y="84.8867" style="white-space: pre;">User</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="219" y1="96.04" y2="96.04"/>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="106.6884"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="27" y="113.0351" style="white-space: pre;">premium: bool</text>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="122.9853"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="27" y="129.332" style="white-space: pre;">name: std::string</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="219" y1="136.6337" y2="136.6337"/>
+      <ellipse cx="18" cy="150.2822" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="27" y="153.6289" style="white-space: pre;">User()</text>
+      <ellipse cx="18" cy="166.5791" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="27" y="169.9257" style="white-space: pre;">User(p: bool, n: std::string)</text>
+      <ellipse cx="18" cy="182.8759" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="27" y="186.2226" style="white-space: pre;">hasPremium(): bool</text>
+      <ellipse cx="18" cy="199.1728" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="27" y="202.5195" style="white-space: pre;">getName(): std::string</text>
+    </g>
+    <g id="elem_Observer">
+      <rect codeline="10" fill="#F1F1F1" height="64.2969" id="Observer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="405" x="255" y="104.78"/>
+      <ellipse cx="421.75" cy="120.78" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path d="M424.7188,126.4206 Q424.1406,126.7175 423.5,126.8581 Q422.8594,127.0144 422.1563,127.0144 Q419.6563,127.0144 418.3281,125.3737 Q417.0156,123.7175 417.0156,120.5925 Q417.0156,117.4675 418.3281,115.8112 Q419.6563,114.155 422.1563,114.155 Q422.8594,114.155 423.5,114.3112 Q424.1563,114.4675 424.7188,114.7644 L424.7188,117.4831 Q424.0938,116.905 423.5,116.6394 Q422.9063,116.3581 422.2813,116.3581 Q420.9375,116.3581 420.25,117.4362 Q419.5625,118.4987 419.5625,120.5925 Q419.5625,122.6862 420.25,123.7644 Q420.9375,124.8269 422.2813,124.8269 Q422.9063,124.8269 423.5,124.5612 Q424.0938,124.28 424.7188,123.7019 L424.7188,126.4206 Z " fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="442.25" y="125.6267" style="white-space: pre;">Observer</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="256" x2="659" y1="136.78" y2="136.78"/>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="256" x2="659" y1="144.78" y2="144.78"/>
+      <ellipse cx="266" cy="158.4284" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="379" x="275" y="161.7751" style="white-space: pre;">notify(bookTitle: std::string, newPrice: std::string): void</text>
+    </g>
+    <g id="elem_UserObserver">
+      <rect codeline="14" fill="#F1F1F1" height="129.4844" id="UserObserver" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="405" x="83" y="326.86"/>
+      <ellipse cx="233.75" cy="342.86" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path d="M236.7188,348.5006 Q236.1406,348.7975 235.5,348.9381 Q234.8594,349.0944 234.1563,349.0944 Q231.6563,349.0944 230.3281,347.4537 Q229.0156,345.7975 229.0156,342.6725 Q229.0156,339.5475 230.3281,337.8912 Q231.6563,336.235 234.1563,336.235 Q234.8594,336.235 235.5,336.3912 Q236.1563,336.5475 236.7188,336.8444 L236.7188,339.5631 Q236.0938,338.985 235.5,338.7194 Q234.9063,338.4381 234.2813,338.4381 Q232.9375,338.4381 232.25,339.5162 Q231.5625,340.5787 231.5625,342.6725 Q231.5625,344.7662 232.25,345.8444 Q232.9375,346.9069 234.2813,346.9069 Q234.9063,346.9069 235.5,346.6412 Q236.0938,346.36 236.7188,345.7819 L236.7188,348.5006 Z " fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="254.25" y="347.7067" style="white-space: pre;">UserObserver</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="84" x2="487" y1="358.86" y2="358.86"/>
+      <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="91" y="369.5084"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="229" x="103" y="375.8551" style="white-space: pre;">users: std::vector&lt;const User*&gt;</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="84" x2="487" y1="383.1569" y2="383.1569"/>
+      <ellipse cx="94" cy="396.8053" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="379" x="103" y="400.152" style="white-space: pre;">notify(bookTitle: std::string, newPrice: std::string): void</text>
+      <ellipse cx="94" cy="413.1022" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="227" x="103" y="416.4489" style="white-space: pre;">addUser(user: const User*): void</text>
+      <ellipse cx="94" cy="429.3991" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="262" x="103" y="432.7457" style="white-space: pre;">containsUser(user: const User*): bool</text>
+      <ellipse cx="94" cy="445.6959" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="253" x="103" y="449.0426" style="white-space: pre;">removeUser(user: const User*): void</text>
+    </g>
+    <g id="elem_UserFactory">
+      <rect codeline="22" fill="#F1F1F1" height="64.2969" id="UserFactory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="397" x="695" y="104.78"/>
+      <ellipse cx="848.25" cy="120.78" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path d="M851.2188,126.4206 Q850.6406,126.7175 850,126.8581 Q849.3594,127.0144 848.6563,127.0144 Q846.1563,127.0144 844.8281,125.3737 Q843.5156,123.7175 843.5156,120.5925 Q843.5156,117.4675 844.8281,115.8112 Q846.1563,114.155 848.6563,114.155 Q849.3594,114.155 850,114.3112 Q850.6563,114.4675 851.2188,114.7644 L851.2188,117.4831 Q850.5938,116.905 850,116.6394 Q849.4063,116.3581 848.7813,116.3581 Q847.4375,116.3581 846.75,117.4362 Q846.0625,118.4987 846.0625,120.5925 Q846.0625,122.6862 846.75,123.7644 Q847.4375,124.8269 848.7813,124.8269 Q849.4063,124.8269 850,124.5612 Q850.5938,124.28 851.2188,123.7019 L851.2188,126.4206 Z " fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="868.75" y="125.6267" style="white-space: pre;">UserFactory</text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="696" x2="1091" y1="136.78" y2="136.78"/>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="696" x2="1091" y1="144.78" y2="144.78"/>
+      <ellipse cx="706" cy="158.4284" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="371" x="715" y="161.7751" style="white-space: pre;">createUser(type: std::string, name: std::string): User*</text>
+    </g>
+    <g id="link_User_UserObserver">
+      <path codeline="57" d="M165.936,214.9501 C190.956,251.7101 217.75,291.08 241.95,326.62 " fill="none" id="User-backto-UserObserver" style="stroke:#181818;stroke-width:1.0;"/>
+      <polygon fill="#181818" points="162.56,209.99,164.3173,219.6808,165.3733,214.1234,170.9307,215.1795,162.56,209.99" style="stroke:#181818;stroke-width:1.0;"/>
+    </g>
+    <g id="link_Observer_UserObserver">
+      <path codeline="58" d="M425.9309,184.2996 C399.3209,223.3896 363.41,276.15 329.22,326.37 " fill="none" id="Observer-backto-UserObserver" style="stroke:#181818;stroke-width:1.0;"/>
+      <polygon fill="none" points="436.06,169.42,420.9711,180.9232,430.8908,187.6759,436.06,169.42" style="stroke:#181818;stroke-width:1.0;"/>
+    </g>
+  </g>
+</svg>

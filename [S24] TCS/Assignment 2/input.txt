@@ -1,0 +1,6 @@
+type=[non-deterministic]
+states=[state0,state1,state2,state3,state4,state5]
+alphabet=[symbol0,symbol1]
+initial=[state2]
+accepting=[state3]
+transitions=[state0>symbol0>state5,state0>symbol1>state1,state1>symbol0>state4,state1>symbol1>state5,state2>symbol0>state2,state2>symbol1>state0,state3>symbol0>state4,state3>symbol1>state1,state4>symbol0>state3,state4>symbol1>state3,state5>symbol0>state1,state5>symbol1>state0]
