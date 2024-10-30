@@ -1,0 +1,17 @@
+A new archer came to town, Harry.
+Error caught
+Harry:archer:100 
+
+bool full = true;
+for (int i = 0; i < m; i++) {
+    std::string target;
+    inputFile >> target;
+    auto iter = players.find(target);
+    if (iter == players.end()) {
+        outputFile << "Error caught" << std::endl;
+        full = false;
+        break;
+    } else {
+        chars.push_back(iter->second);
+    }
+}
