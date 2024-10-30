@@ -1,0 +1,77 @@
+Node brother = node.parent.left;
+if (brother == null) {
+    brother.color = Colors.RED;
+    if (node.parent.color == Colors.RED) {
+        node.parent.color = Colors.BLACK;
+    } else {
+        node.parent.color = Colors.BLACK;
+        tree.add(node.parent);
+        remove(node.parent);
+    }
+} else if (brother.color == Colors.BLACK) {
+    if (brother.left != null && brother.left.color == Colors.RED) {
+        brother.color = node.parent.color;
+        node.parent.color = Colors.BLACK;
+        brother.left.color = Colors.BLACK;
+        Node B = node.parent;
+        Node A = brother;
+        if (B != root) {
+            if (B.parent.right == B) {
+                B.parent.setRight(A);
+            } else {
+                B.parent.setLeft(A);
+            }
+        } else {
+            root = A;
+        }
+        A.setParent(B.parent);
+        B.setParent(A);
+        B.setLeft(A.right);
+        if (A.right != null) {
+            A.right.setParent(B);
+        }
+        A.setRight(B);
+    } else if (brother.right != null && brother.right.color == Colors.RED) {
+        brother.color = Colors.RED;
+        brother.right.color = Colors.BLACK;
+        node.parent.setLeft(brother.right);
+        brother.right.setParent(node.parent);
+        brother.setParent(brother.right);
+        brother.setRight(brother.right.left);
+        brother.right.setLeft(brother);
+        tree.add(node);
+        remove(node);
+    } else {
+        brother.color = Colors.RED;
+        if (node.parent.color == Colors.RED) {
+            node.parent.color = Colors.BLACK;
+        } else {
+            node.parent.color = Colors.BLACK;
+            tree.add(node.parent);
+            remove(node.parent);
+        }
+    }
+} else {
+    node.parent.color = Colors.RED;
+    brother.color = Colors.BLACK;
+    Node B = node.parent;
+    Node A = brother;
+    if (B != root) {
+        if (B.parent.right == B) {
+            B.parent.setRight(A);
+        } else {
+            B.parent.setLeft(A);
+        }
+    } else {
+        root = A;
+    }
+    A.setParent(B.parent);
+    B.setParent(A);
+    B.setLeft(A.right);
+    if (A.right != null) {
+        A.right.setParent(B);
+    }
+    A.setRight(B);
+    tree.add(node);
+    remove(node);
+}
